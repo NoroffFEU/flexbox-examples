@@ -21,14 +21,14 @@ body {
 	flex-direction: column;
 }
 
-.yellow {
+.grey {
 	padding: 1em;
-	background: #feffa6;
+	background: #eeeeee;
 }
 
-.green {
+.dark-grey {
 	padding: 10px;
-	background: #bcffa6;
+	background: #c7c7c7;
 	display: flex;
 	align-items: center;
 }
@@ -39,7 +39,7 @@ body {
 	margin-left: 5px;
 }
 
-.margin-bottom-10 {
+.logo-vertical {
 	margin-bottom: 10px;
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 .menu a {
-	background: pink;
+	background: #f5ffbb;
 	padding: 10px;
 	margin: 0 5px;
 }
