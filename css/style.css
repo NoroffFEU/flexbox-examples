@@ -3,7 +3,7 @@ body {
 	padding: 10px 20px 20px;
 }
 
-.container {
+header {
 	display: flex;
 	align-items: center;
 	margin-bottom: 2.5em;
