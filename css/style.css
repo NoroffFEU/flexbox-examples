@@ -52,3 +52,9 @@ header {
 	padding: 10px;
 	margin: 0 5px;
 }
+
+@media (max-width: 640px) {
+	.menu {
+		display: none;
+	}
+}
